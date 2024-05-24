@@ -1,125 +1,78 @@
-
 ---
 layout: default
+title: Cao Zhenxiao
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Cao Zhenxiao
 
-[Link to another page](./another-page.html).
+- **Location:** Xi’an, Shaanxi, P.R. China
+- **Email:** realalanc@qq.com / realalanc029@gmail.com
+- **Phone:** (+86) 13991802172
 
-There should be whitespace between paragraphs.
+## Education
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Bachelor of Science in Computer Science**  
+Xi’an Jiaotong University, 2025  
+- Major courses: Advanced Mathematics, Linear Algebra and Geometry, University Physics, Foundation of Life Science, Thinking of Big Data and Innovation, Data Structure and Algorithms, Discrete Mathematical Structures, Object-Oriented Programming (OOP), Introduction of Computer Systems (ICS), Probability Theory and Stochastic process, Bioinformatics, Artificial Intelligence, Computer Organization, Principles of Computer Networks, The Principle of Operating System
 
-# Header 1
+## Publications
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Under Review**
+- "Post-translation modification(PTM) prediction via deep learning"
 
-## Header 2
+## Research Experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Internship at SenseTime**  
+Year: 2023  
+- Developed a smart sensor to monitor Alzheimer patients via CNN on an embedding device, involving quantization from a Yolov5-based inference network. Tasks included face identification, landmark detection, and signal processing for heart rate.
 
-### Header 3
+**Intra-University Research**
+- **Causal Prediction in microsatellite instability (MSI) and gene network**  
+  Year: 2022  
+  - Developed a toolbox for causal prediction between gene networks and MSI, involving correlation filtering, causal graph generation, and correctness checking via causal inference algorithms.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- **Monomer inference in fruit fly’s centromere**  
+  Year: 2024  
+  - Analyzed the structure of the centromere in Drosophila melanogaster, focusing on monomer analysis from long-read gap-free sequence data.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Inter-University Research**
+- **Post-translation modification(PTM) prediction via deep learning**  
+  Westlake University, Year: 2024  
+  - Developed a deep learning framework for PTM prediction, aiming to achieve state-of-the-art results in multi-class prediction using sequence and structural data.
 
-#### Header 4
+## Awards
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **China National Biology Olympics (CNBO) Silver**  
+  Year: 2021  
+  - Awarded a Silver Medal in CNBO for proficiency in biology.
 
-##### Header 5
+- **International Genetic Machine Olympics (iGEM) Gold**  
+  Year: 2022-2023  
+  - Awarded Gold as a member of the iGEM team for innovative work on cellular automata modeling.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+- **China International College Students’ Innovation Campaign Honorable Mention**  
+  Year: 2022-2023  
+  - Received Honorable Mention for research on causal prediction in microsatellite instability and gene networks.
 
-###### Header 6
+## Other Contributions
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+- **Building py-Cicero as a free open-source developer**  
+  - Developing a Python-version Cicero software for calculating single-cell chromatin co-accessibility.
 
-### There's a horizontal rule below this.
+- **PR and bug fix in PDBminer**  
+  - Contributed bug fixes and enhancements to PDBminer, an open-source software for retrieving structural data via UniProt IDs.
 
-* * *
+## Professional Skills
 
-### Here is an unordered list:
+### Language
+- Chinese (native)
+- English (TOEFL 103)
+- Russian (starter)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Programming
+- Familiar with basic Linux commands
+- Proficient in Python; competent in R, C, C++, and Java
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-hello
+### Biology
+- Proficient in biochemistry, molecular biology, cellular biology, genetics, and other related fields
+- Experienced in wet lab techniques such as PCR and electrophoresis
