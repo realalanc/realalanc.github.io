@@ -6,8 +6,7 @@ title: Cao Zhenxiao
 # Cao Zhenxiao
 
 - **Location:** Xi’an, Shaanxi, P.R. China
-- **Email:** realalanc@qq.com / realalanc029@gmail.com
-- **Phone:** (+86) 13991802172
+- **Email:** realalanc@qq.com / realalanc029@gmail.com / alancao@stu.xjtu.edu.cn
 
 ## Education
 
@@ -18,7 +17,25 @@ Xi’an Jiaotong University, 2025
 ## Publications
 
 **Under Review**
-- "Post-translation modification(PTM) prediction via deep learning"
+- "Post-translation modification(PTM) prediction via deep learning" (Accurate Title is hidden due to double-blind policy)
+
+## Research Interests
+**AI for Biology**
+- LLMs for biologial moleculars
+- Predictions of the feature and structure of biologial moleculars
+- Explainable AIs in biology
+- AIGC in biology (like protein design, small molecular design)
+- Biological image analysis and CV for biology
+  
+**Machine Learning**
+- DL network structure design
+- Explainable AIs
+- Causal inference
+
+**Feel free to connect me for any research interests and communications** 
+
+## Latest News
+Comming Soon!
 
 ## Research Experience
 
@@ -39,6 +56,9 @@ Year: 2023
 - **Post-translation modification(PTM) prediction via deep learning**  
   Westlake University, Year: 2024  
   - Developed a deep learning framework for PTM prediction, aiming to achieve state-of-the-art results in multi-class prediction using sequence and structural data.
+- **Gene expression prediction in long sequence NLP algorithms**  
+  University of North Carolina at Chapel Hill, Year: 2024  
+  - Trying to predict cis-acting elements by using NLP algorithms that is capable to handle long sequences.
 
 ## Awards
 
