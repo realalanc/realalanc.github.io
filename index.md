@@ -56,9 +56,11 @@ Year: 2023
 - **Post-translation modification(PTM) prediction via deep learning**  
   Westlake University, Year: 2024  
   - Developed a deep learning framework for PTM prediction, aiming to achieve state-of-the-art results in multi-class prediction using sequence and structural data.
+  <div style="display:none"> 
 - **Gene expression prediction in long sequence NLP algorithms**  
   University of North Carolina at Chapel Hill, Year: 2024  
   - Trying to predict cis-acting elements by using NLP algorithms that is capable to handle long sequences.
+  </div> 
 
 ## Awards
 
