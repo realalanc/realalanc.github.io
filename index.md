@@ -89,7 +89,6 @@ Year: 2023
 ### Language
 - Chinese (native)
 - English (TOEFL 103)
-- Russian (starter)
 
 ### Programming
 - Familiar with basic Linux commands
@@ -98,3 +97,14 @@ Year: 2023
 ### Biology
 - Proficient in biochemistry, molecular biology, cellular biology, genetics, and other related fields
 - Experienced in wet lab techniques such as PCR and electrophoresis
+
+## Other Interesting Thinng About Me
+
+### Model UN
+- I was a paticipant in Model UN in my middle school and high school times, with getting some prizes.
+
+### Language Learning
+- I am a fan in language learning, I am learning Russian, and having further plan in learning Japanese.
+
+### Leadership Trainning
+- I once joined a leadership trainning held by ITCILO, learned some skills and facts about life planning.
