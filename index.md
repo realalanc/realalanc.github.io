@@ -7,6 +7,10 @@ title: Cao Zhenxiao
 
 - **Location:** Xi’an, Shaanxi, P.R. China
 - **Email:** realalanc@qq.com / realalanc029@gmail.com / alancao@stu.xjtu.edu.cn
+- 
+## News about me!
+- Neurips2024 rebuttal time!
+
 
 ## Education
 
@@ -17,7 +21,7 @@ Xi’an Jiaotong University, 2025
 ## Publications
 
 **Under Review**
-- "Post-translation modification(PTM) prediction via deep learning" (Accurate Title is hidden due to double-blind policy)
+- "Post-translation modification(PTM) prediction via deep learning" (Accurate Title is hidden due to double-blind policy) is under review of Neurips2024
 
 ## Research Interests
 **AI for Biology**
@@ -33,9 +37,6 @@ Xi’an Jiaotong University, 2025
 - Causal inference
 
 **Feel free to connect me for any research interests and communications** 
-
-## Latest News
-Comming Soon!
 
 ## Research Experience
 
