@@ -87,6 +87,8 @@ Status: Finished
 - **International Genetic Machine Olympics (iGEM) Gold**  
   Year: 2022-2023  
   - Awarded Gold as a member of the iGEM team for innovative work on cellular automata modeling.
+  - The whole project is focused on building a light-induced autolysis on engineered bacteria to emerge genocides,
+ while the cell lysis cycle controls the amount of genocides.
 
 - **China International College Students’ Innovation Campaign Honorable Mention**  
   Year: 2022-2023  
