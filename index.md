@@ -25,7 +25,7 @@ Grade: 85.25/100
 ## Publications
 
 **Under Review**
-- "Post-translation modification(PTM) prediction via deep learning" (Accurate Title is hidden due to double-blind policy) is under review of Neurips2024
+- "Post-translation modification(PTM) prediction via deep learning" (Accurate Title is hidden due to double-blind policy) is under review of **Neurips2024**
 
 ## Research Interests
 **AI for Biology**
@@ -63,7 +63,7 @@ Status: Finished
 **Inter-University Research**
 - **Post-translation modification(PTM) prediction via deep learning**  
   Westlake University, Year: 2024
-  Status: Under Neurips 2024 review 
+  Status: Under **Neurips 2024** review 
   - Developed a deep learning framework for PTM prediction, aiming to achieve state-of-the-art results in multi-class prediction using sequence and structural data.
 - **Gene expression prediction in Mamba**  
   University of North Carolina at Chapel Hill, Year: 2024
