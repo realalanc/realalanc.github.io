@@ -10,12 +10,16 @@ title: Cao Zhenxiao
   
 ## News about me!
 - Neurips2024 rebuttal time!
+- Former work 'Gene expression prediction in long sequence NLP algorithms' is cancelled.
+- Starting a new work 'Protein dynamics generation model' with Westlake University
+- Starting a new work '3D protein image structural embedding' with UNC
 
 
 ## Education
 
 **Bachelor of Science in Computer Science**  
 Xi’an Jiaotong University, 2025  
+Grade: 85.25/100
 - Major courses: Advanced Mathematics, Linear Algebra and Geometry, University Physics, Foundation of Life Science, Thinking of Big Data and Innovation, Data Structure and Algorithms, Discrete Mathematical Structures, Object-Oriented Programming (OOP), Introduction of Computer Systems (ICS), Probability Theory and Stochastic process, Bioinformatics, Artificial Intelligence, Computer Organization, Principles of Computer Networks, The Principle of Operating System
 
 ## Publications
@@ -42,26 +46,37 @@ Xi’an Jiaotong University, 2025
 
 **Internship at SenseTime**  
 Year: 2023  
+Status: Finished
 - Developed a smart sensor to monitor Alzheimer patients via CNN on an embedding device, involving quantization from a Yolov5-based inference network. Tasks included face identification, landmark detection, and signal processing for heart rate.
 
 **Intra-University Research**
 - **Causal Prediction in microsatellite instability (MSI) and gene network**  
-  Year: 2022  
+  Year: 2022
+  Status: Paused
   - Developed a toolbox for causal prediction between gene networks and MSI, involving correlation filtering, causal graph generation, and correctness checking via causal inference algorithms.
 
 - **Monomer inference in fruit fly’s centromere**  
-  Year: 2024  
+  Year: 2024
+  Status: Processing, expected to submit in December 
   - Analyzed the structure of the centromere in Drosophila melanogaster, focusing on monomer analysis from long-read gap-free sequence data.
 
 **Inter-University Research**
 - **Post-translation modification(PTM) prediction via deep learning**  
-  Westlake University, Year: 2024  
+  Westlake University, Year: 2024
+  Status: Under Neurips 2024 review 
   - Developed a deep learning framework for PTM prediction, aiming to achieve state-of-the-art results in multi-class prediction using sequence and structural data.
-<div style="display:none"> 
-- **Gene expression prediction in long sequence NLP algorithms**  
-  University of North Carolina at Chapel Hill, Year: 2024  
-  - Trying to predict cis-acting elements by using NLP algorithms that is capable to handle long sequences.
-</div> 
+- **Gene expression prediction in Mamba**  
+  University of North Carolina at Chapel Hill, Year: 2024
+  Status: Cancelled
+  - Trying to predict cis-acting elements by using Mamba that is capable to handle long sequences.
+- **Protein dynamics generation model**  
+  Westlake University, Year: 2024
+  Status: Processing
+  - The research objective is to develop a model that, by learning from the molecular structure, chemical properties of protein-ligand complexes, and short-term molecular dynamics trajectories (the first few frames), can predict and output longer-term molecular dynamics trajectories of protein-ligand complexes.
+- **3D protein image structural embedding**  
+  University of North Carolina at Chapel Hill, Year: 2024
+  Status: Processing
+  - Training a embedding vector by VAE-like models, and providing it for downstream tasks like atom prediction.
 
 ## Awards
 
@@ -97,7 +112,7 @@ Year: 2023
 
 ### Biology
 - Proficient in biochemistry, molecular biology, cellular biology, genetics, and other related fields
-- Experienced in wet lab techniques such as PCR and electrophoresis
+- Experienced in wet lab techniques such as PCR and electrophoresis.
 
 ## Other Interesting Thinng About Me
 
@@ -109,3 +124,6 @@ Year: 2023
 
 ### Leadership Trainning
 - I once joined a leadership trainning held by ITCILO, learned some skills and facts about life planning.
+
+### AI4Bio Community
+- I am interested in and willing to join or develop a AI4Bio community.
