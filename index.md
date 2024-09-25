@@ -9,7 +9,7 @@ title: Cao Zhenxiao
 - **Email:** realalanc@qq.com / realalanc029@gmail.com / alancao@stu.xjtu.edu.cn
   
 ## News about me!
-- Neurips2024 rebuttal time!
+- Re-submit out paper "Post-translation modification(PTM) prediction via deep learning" to ICLR2025
 - Former work 'Gene expression prediction in long sequence NLP algorithms' is cancelled.
 - Starting a new work 'Protein dynamics generation model' with Westlake University
 - Starting a new work '3D protein image structural embedding' with UNC
@@ -25,7 +25,7 @@ Grade: 85.25/100
 ## Publications
 
 **Under Review**
-- "Post-translation modification(PTM) prediction via deep learning" (Accurate Title is hidden due to double-blind policy) is under review of **Neurips2024**
+- "Post-translation modification(PTM) prediction via deep learning" (Accurate Title is hidden due to double-blind policy) is under review of **ICLR2025**
 
 ## Research Interests
 **AI for Biology**
@@ -63,8 +63,9 @@ Status: Finished
 **Inter-University Research**
 - **Post-translation modification(PTM) prediction via deep learning**  
   Westlake University, Year: 2024
-  Status: Under **Neurips 2024** review 
+  Status: Under **ICLR2025** review 
   - Developed a deep learning framework for PTM prediction, aiming to achieve state-of-the-art results in multi-class prediction using sequence and structural data.
+  - Got 5.5 marks in Neurips2024, but rejected by AC.
 - **Gene expression prediction in Mamba**  
   University of North Carolina at Chapel Hill, Year: 2024
   Status: Cancelled
@@ -77,6 +78,10 @@ Status: Finished
   University of North Carolina at Chapel Hill, Year: 2024
   Status: Processing
   - Training a embedding vector by VAE-like models, and providing it for downstream tasks like atom prediction.
+- **Breast Cancer Medecal Image Dataset in Rare Classes**  
+  Peiking University, Year: 2024
+  Status: Processing
+  - Developing a medical image dataset, including different types of medical images in different types of breast cancers. Focusing on rare cases, our dataset tends to provide a competative dataset and benchmarks for future downstream tasts.
 
 ## Awards
 
