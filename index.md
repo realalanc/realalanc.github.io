@@ -74,7 +74,7 @@ Status: Finished
   - Using LLM as an extractor to identify rare cells from data, which can be used in different biological domains.
 
 - **Causal Prediction in microsatellite instability (MSI) and gene network**  
-  Xi'an Jiaotong University, with Xiaofei Yang [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=dztQpOgAAAAJ) and Kai Ye[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=ZANw36QAAAAJ) Year: 2022
+  Xi'an Jiaotong University, with Xiaofei Yang [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=dztQpOgAAAAJ) and Kai Ye [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=ZANw36QAAAAJ) Year: 2022
   Status: Paused
   - Developed a toolbox for causal prediction between gene networks and MSI, involving correlation filtering, causal graph generation, and correctness checking via causal inference algorithms.
 
@@ -85,10 +85,10 @@ Status: Finished
   Status: Processing
   - Developing a medical image dataset, including different types of medical images in different types of breast cancers. Focusing on rare cases, our dataset tends to provide a competative dataset and benchmarks for future downstream tasts.
     
-- **Uncertainty Guided Generalised Federated Learning**
+- **Uncertainty Guided Generalised Federated Learning**    
   Rice University, Year: 2024
   Status: Processing, expected to submit in October
-  -  This study employs Gaussian noise in a federated learning model for domain generalization, enhancing the model's adaptability and robustness across diverse domains while ensuring data privacy.
+  - This study employs Gaussian noise in a federated learning model for domain generalization, enhancing the model's adaptability and robustness across diverse domains while ensuring data privacy.
     
 - **Gene expression prediction in Mamba**  
   University of North Carolina at Chapel Hill, Year: 2024
