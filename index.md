@@ -64,7 +64,7 @@ Status: Finished
   - The research objective is to develop a model that, by learning from the molecular structure, chemical properties of protein-ligand complexes, and short-term molecular dynamics trajectories (the first few frames), can predict and output longer-term molecular dynamics trajectories of protein-ligand complexes.
   
 - **3D protein image structural embedding**  
-  University of North Carolina at Chapel Hill, with Wenhao Zheng[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=WpTE3MIAAAAJ and Huaxiu Yao [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=A20BZnQAAAAJ) Year: 2024
+  University of North Carolina at Chapel Hill, with Wenhao Zheng[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=WpTE3MIAAAAJ) and Huaxiu Yao [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=A20BZnQAAAAJ) Year: 2024
   Status: Processing
   - Training a embedding vector by VAE-like models, and providing it for downstream tasks like atom prediction.
 
