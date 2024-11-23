@@ -87,7 +87,7 @@ Status: Finished
     
 - **Uncertainty Guided Generalised Federated Learning**    
   Rice University, Year: 2024
-  Status: Processing, expected to submit in October
+  Status: Processing, expected to submit in December ACL
   - This study employs Gaussian noise in a federated learning model for domain generalization, enhancing the model's adaptability and robustness across diverse domains while ensuring data privacy.
     
 - **Gene expression prediction in Mamba**  
