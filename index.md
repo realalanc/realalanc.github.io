@@ -20,7 +20,7 @@ title: Cao Zhenxiao
 
 **Bachelor of Science in Computer Science**  
 Xi’an Jiaotong University, 2025  
-Grade: 85.25/100
+Grade: 85.54/100
 - Major courses: Advanced Mathematics, Linear Algebra and Geometry, University Physics, Foundation of Life Science, Thinking of Big Data and Innovation, Data Structure and Algorithms, Discrete Mathematical Structures, Object-Oriented Programming (OOP), Introduction of Computer Systems (ICS), Probability Theory and Stochastic process, Bioinformatics, Artificial Intelligence, Computer Organization, Principles of Computer Networks, The Principle of Operating System
 
 ## Publications
@@ -62,7 +62,12 @@ Status: Finished
   Westlake University, with Cheng Tan [Google Scholar](https://scholar.google.com/citations?user=6kTV6aMAAAAJ&hl=zh-CN&oi=ao) and Stan Z.Li [Google Scholar](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Year: 2024
   Status: Processing
   - The research objective is to develop a model that, by learning from the molecular structure, chemical properties of protein-ligand complexes, and short-term molecular dynamics trajectories (the first few frames), can predict and output longer-term molecular dynamics trajectories of protein-ligand complexes.
-  
+
+- **Data refine in protein prediction databasel**  
+  Westlake University, with Cheng Tan [Google Scholar](https://scholar.google.com/citations?user=6kTV6aMAAAAJ&hl=zh-CN&oi=ao) and Stan Z.Li [Google Scholar](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Year: 2024
+  Status: Processing
+  - As can be known, protein prediction data often has biases against the ground truth. Our task is to build an algorithm to pair-to-pair refine and enhance the dataset.
+    
 - **3D protein image structural embedding**  
   University of North Carolina at Chapel Hill, with Wenhao Zheng[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=WpTE3MIAAAAJ) and Huaxiu Yao [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=A20BZnQAAAAJ) Year: 2024
   Status: Processing
@@ -87,7 +92,7 @@ Status: Finished
     
 - **Uncertainty Guided Generalised Federated Learning**    
   Rice University, Year: 2024
-  Status: Processing, expected to submit in December ACL
+  Status: Processing, expected to submit soon
   - This study employs Gaussian noise in a federated learning model for domain generalization, enhancing the model's adaptability and robustness across diverse domains while ensuring data privacy.
     
 - **Gene expression prediction in Mamba**  
@@ -97,7 +102,7 @@ Status: Finished
     
 - **Monomer inference in fruit fly’s centromere**  
   Xi'an Jiaotong University, Year: 2023
-  Status: Processing, expected to submit in December 
+  Status: Processing, expected to submit soon
   - Analyzed the structure of the centromere in Drosophila melanogaster, focusing on monomer analysis from long-read gap-free sequence data.
     
 ## Awards
