@@ -24,9 +24,10 @@ Grade: 85.54/100
 - Major courses: Advanced Mathematics, Linear Algebra and Geometry, University Physics, Foundation of Life Science, Thinking of Big Data and Innovation, Data Structure and Algorithms, Discrete Mathematical Structures, Object-Oriented Programming (OOP), Introduction of Computer Systems (ICS), Probability Theory and Stochastic process, Bioinformatics, Artificial Intelligence, Computer Organization, Principles of Computer Networks, The Principle of Operating System
 
 ## Publications
-
+**Conference Paper**
+- "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction" has been accepted by **ICLR2025**
 **Under Review**
-- "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction" is under review of **ICLR2025**
+- comming soon!
 
 ## Research Interests
 **AI for Biology**
