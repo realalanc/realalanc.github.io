@@ -9,6 +9,7 @@ title: Cao Zhenxiao
 - **Email:** realalanc@qq.com / realalanc029@gmail.com / alancao@stu.xjtu.edu.cn
   
 ## News about me!
+- "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction" has been accepted by **ICLR2025**!!!!
 - Re-submit out paper "Post-translation modification(PTM) prediction via deep learning" to ICLR2025
 - Former work 'Gene expression prediction in long sequence NLP algorithms' is cancelled.
 - Starting a new work 'Protein dynamics generation model' with Westlake University
@@ -24,10 +25,11 @@ Grade: 85.54/100
 - Major courses: Advanced Mathematics, Linear Algebra and Geometry, University Physics, Foundation of Life Science, Thinking of Big Data and Innovation, Data Structure and Algorithms, Discrete Mathematical Structures, Object-Oriented Programming (OOP), Introduction of Computer Systems (ICS), Probability Theory and Stochastic process, Bioinformatics, Artificial Intelligence, Computer Organization, Principles of Computer Networks, The Principle of Operating System
 
 ## Publications
-**Conference Paper**
+**Conference Papers**
 - "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction" has been accepted by **ICLR2025**
-  
-**Under Review**
+
+
+**Papers Under Review**
 - comming soon!
 
 ## Research Interests
@@ -55,7 +57,7 @@ Status: Finished
 **First-author-level works**
 - **MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction**  
   Westlake University, with Cheng Tan [Google Scholar](https://scholar.google.com/citations?user=6kTV6aMAAAAJ&hl=zh-CN&oi=ao) and Stan Z.Li [Google Scholar](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Year: 2024
-  Status: Under **ICLR2025** review 
+  Status: Accepted by **ICLR2025**
   - Developed a deep learning framework for PTM prediction, aiming to achieve state-of-the-art results in multi-class prediction using sequence and structural data.
   - Our model is based on VQ-VAE, which constructs graphs by capturing sequence neighbors and structural neighbors. It is divided into two tasks: pre-training the VQ-VAE and extracting intermediate embeddings for downstream tasks.
   - Got 5.5 marks in Neurips2024, but rejected by AC.
