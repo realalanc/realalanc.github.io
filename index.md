@@ -60,7 +60,6 @@ Status: Finished
   Status: Accepted by **ICLR2025**
   - Developed a deep learning framework for PTM prediction, aiming to achieve state-of-the-art results in multi-class prediction using sequence and structural data.
   - Our model is based on VQ-VAE, which constructs graphs by capturing sequence neighbors and structural neighbors. It is divided into two tasks: pre-training the VQ-VAE and extracting intermediate embeddings for downstream tasks.
-  - Got 5.5 marks in Neurips2024, but rejected by AC.
     
 - **Protein dynamics generation model**  
   Westlake University, with Cheng Tan [Google Scholar](https://scholar.google.com/citations?user=6kTV6aMAAAAJ&hl=zh-CN&oi=ao) and Stan Z.Li [Google Scholar](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Year: 2024
