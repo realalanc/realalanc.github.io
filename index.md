@@ -112,7 +112,7 @@ Status: Finished
 ## Awards
 
 - **China National Biology Olympics (CNBO) Silver**  
-  Year: 2021  
+  Year: 2020  
   - Awarded a Silver Medal in CNBO for proficiency in biology.
 
 - **International Genetic Machine Olympics (iGEM) Gold**  
