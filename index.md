@@ -28,9 +28,8 @@ Grade: 85.54/100
 **Conference Papers**
 - "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction" has been accepted by **ICLR2025**
 
-
 **Papers Under Review**
-- comming soon!
+- "How Effective is In-Context Learning with Large Language Models for Rare Cell Identification in Single-Cell Expression Data?" is under review of **ECML-PKDD 2025**
 
 ## Research Interests
 **AI for Biology**
@@ -76,10 +75,10 @@ Status: Finished
   Status: Processing
   - Training a embedding vector by VAE-like models, and providing it for downstream tasks like atom prediction.
 
-- **Rare cell identification via LLM**  
+- **How Effective is In-Context Learning with Large Language Models for Rare Cell Identification in Single-Cell Expression Data?**  
   Year: 2024
-  Status: Processing
-  - Using LLM as an extractor to identify rare cells from data, which can be used in different biological domains.
+  Status: Under Review
+  - Using LLM as an extractor to identify rare cells from data, which can be used in different biological domains. We found that cross-query based in-context learning provides stable performance, independent of the data size, and achieves SOTA on some datasets.
 
 - **Causal Prediction in microsatellite instability (MSI) and gene network**  
   Xi'an Jiaotong University, with Xiaofei Yang [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=dztQpOgAAAAJ) and Kai Ye [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=ZANw36QAAAAJ) Year: 2022
