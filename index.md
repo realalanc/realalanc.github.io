@@ -9,6 +9,7 @@ title: Cao Zhenxiao
 - **Email:** realalanc@qq.com / realalanc029@gmail.com / alancao@stu.xjtu.edu.cn
   
 ## News about me!
+- I am going to start my PhD in HKUST this fall!
 - "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction" has been accepted by **ICLR2025**!!!!
 - Re-submit out paper "Post-translation modification(PTM) prediction via deep learning" to ICLR2025
 - Former work 'Gene expression prediction in long sequence NLP algorithms' is cancelled.
