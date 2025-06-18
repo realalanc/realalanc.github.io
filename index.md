@@ -27,6 +27,9 @@ Under the guidance of Hao Chen and Bonnie Danqing Zhu
 **Conference Papers**
 - "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction" has been accepted by **ICLR2025**
 
+**Preprints**
+- “AlphaFold Database Debiasing for Robust Inverse Folding” is under review with available preprints in ArXiv
+
 ## Research Interests
 **AI for Biology**
 - LLMs for biologial moleculars
@@ -57,7 +60,7 @@ Status: Finished
   - Our model is based on VQ-VAE, which constructs graphs by capturing sequence neighbors and structural neighbors. It is divided into two tasks: pre-training the VQ-VAE and extracting intermediate embeddings for downstream tasks.
     
 
-- **Data refine in protein prediction databasel**  
+- **AlphaFold Database Debiasing for Robust Inverse Folding**  
   With Cheng Tan [Google Scholar](https://scholar.google.com/citations?user=6kTV6aMAAAAJ&hl=zh-CN&oi=ao) and Stan Z.Li [Google Scholar](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Year: 2024
   Status: Under Review
   - As can be known, protein prediction data often has biases against the ground truth. Our task is to build an algorithm to pair-to-pair refine and enhance the dataset.
