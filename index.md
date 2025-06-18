@@ -70,12 +70,12 @@ Status: Finished
   Status: Under Review
   - Using LLM as an extractor to identify rare cells from data, which can be used in different biological domains. We found that cross-query based in-context learning provides stable performance, independent of the data size, and achieves SOTA on some datasets.
 
-- **A Chain-of-thought Reasoning Breast Ultrasound Dataset Covering All Histopathology Cate-
-gories**  
+- **A Chain-of-thought Reasoning Breast Ultrasound Dataset Covering All Histopathology Categories**  
   Year: 2024
   Status: Under Review
   - Developing a medical image dataset, including different types of medical images in different types of breast cancers. Focusing on rare cases, our dataset tends to provide a competative dataset and benchmarks for future downstream tasts.
-  - 
+  - Using CoT technique as a tool enhancing the explanibility and trustworthy of AI diagnose also reaching the SOTA performance.
+    
 **Other works**
 - **Monomer inference in fruit fly’s centromere**  
   Year: 2023
