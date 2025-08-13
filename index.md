@@ -5,8 +5,8 @@ title: Cao, Zhenxiao
 
 # Cao, Zhenxiao
 
-- **Location:** Xi’an, Shaanxi, P.R. China
-- **Email:** realalanc@qq.com / realalanc029@gmail.com / alancao@stu.xjtu.edu.cn
+- **Location:** Hong Kong, P.R. China
+- **Email:**  realalanc029@gmail.com / alancao@stu.xjtu.edu.cn / zcaoav@connect.ust.hk
   
 ## News about me!
 - I am going to start my PhD in HKUST this fall!
@@ -14,14 +14,15 @@ title: Cao, Zhenxiao
 
 
 ## Education
+**PhD in Computer Science and Engineering**  
+The Hong Kong University of Science and Technology, expected to graduate in 2029 (*I HOPE SO*)  
+Under the guidance of Bonnie Danqing Zhu and Hao Chen
 
 **Bachelor of Science in Computer Science and Technology**  
 Xi’an Jiaotong University, 2025  
 Studying Computer Science in XJTU while focusing on working in AI and Bioinformatics
 
-**PhD in Computer Science and Engineering**  
-The Hong Kong University of Science and Technology, expected to graduate in 2029 (*I HOPE SO*)  
-Under the guidance of Hao Chen and Bonnie Danqing Zhu
+
 
 ## Publications
 **Conference Papers**
@@ -83,16 +84,17 @@ Status: Finished
   - Analyzed the structure of the centromere in Drosophila melanogaster, focusing on monomer analysis from long-read gap-free sequence data.
     
 ## Awards
-
-- **China National Biology Olympics (CNBO) Silver**  
-  Year: 2020  
-  - Awarded a Silver Medal in CNBO for proficiency in biology.
-
 - **International Genetic Machine Olympics (iGEM) Gold**  
   Year: 2022-2023  
   - Awarded Gold as a member of the iGEM team for innovative work on cellular automata modeling.
   - The whole project is focused on building a light-induced autolysis on engineered bacteria to emerge genocides,
  while the cell lysis cycle controls the amount of genocides.
+
+- **China National Biology Olympics (CNBO) Silver**  
+  Year: 2020  
+  - Awarded a Silver Medal in CNBO for proficiency in biology.
+
+
 
 
 ## Other Contributions
