@@ -9,8 +9,7 @@ title: Cao, Zhenxiao
 - **Email:**  realalanc029@gmail.com / alancao@stu.xjtu.edu.cn / zcaoav@connect.ust.hk
   
 ## News about me!
-- I am going to start my PhD in HKUST this fall!
-- "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction" has been accepted by **ICLR2025**!!!!
+- I am starting my PhD in HKUST this fall!
 
 
 ## Education
@@ -27,6 +26,7 @@ Studying Computer Science in XJTU while focusing on working in AI and Bioinforma
 ## Publications
 **Conference Papers**
 - "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction" has been accepted by **ICLR2025**
+- "How Effective is In-Context Learning with Large Language Models for Rare Cell Identification in Single-Cell Expression Data?" has been accepted by **ICDM2025**
 
 **Preprints**
 - “AlphaFold Database Debiasing for Robust Inverse Folding” is under review with available preprints in ArXiv
@@ -68,7 +68,7 @@ Status: Finished
 
 - **How Effective is In-Context Learning with Large Language Models for Rare Cell Identification in Single-Cell Expression Data?**  
   Year: 2024
-  Status: Under Review
+  Status: Accepted by **ICDM2025**
   - Using LLM as an extractor to identify rare cells from data, which can be used in different biological domains. We found that cross-query based in-context learning provides stable performance, independent of the data size, and achieves SOTA on some datasets.
 
 - **A Chain-of-thought Reasoning Breast Ultrasound Dataset Covering All Histopathology Categories**  
