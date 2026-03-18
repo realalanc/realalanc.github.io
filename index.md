@@ -27,9 +27,11 @@ Studying Computer Science in XJTU while focusing on working in AI and Bioinforma
 **Conference Papers**
 - "MeToken: Uniform Micro-environment Token Boosts Post-Translational Modification Prediction" has been accepted by **ICLR2025**
 - "How Effective is In-Context Learning with Large Language Models for Rare Cell Identification in Single-Cell Expression Data?" has been accepted by **ICDM2025**
+- "AlphaFold Database Debiasing for Robust Inverse Folding" has been accepted by **Neurips2025**
 
-**Preprints**
-- “AlphaFold Database Debiasing for Robust Inverse Folding” is under review with available preprints in ArXiv
+**Journal Papers**
+- "A Chain-of-Thought Reasoning Breast Ultrasound Dataset Covering All Histopathology Categories" has been accepted by **Scientific Data**
+
 
 ## Research Interests
 **AI for Biology**
@@ -63,7 +65,7 @@ Status: Finished
 
 - **AlphaFold Database Debiasing for Robust Inverse Folding**  
   With Cheng Tan [Google Scholar](https://scholar.google.com/citations?user=6kTV6aMAAAAJ&hl=zh-CN&oi=ao) and Stan Z.Li [Google Scholar](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN&oi=ao) Year: 2024
-  Status: Under Review
+  Status: Accepted by **Neurips2025**
   - As can be known, protein prediction data often has biases against the ground truth. Our task is to build an algorithm to pair-to-pair refine and enhance the dataset.
 
 - **How Effective is In-Context Learning with Large Language Models for Rare Cell Identification in Single-Cell Expression Data?**  
@@ -73,8 +75,8 @@ Status: Finished
 
 - **A Chain-of-thought Reasoning Breast Ultrasound Dataset Covering All Histopathology Categories**  
   Year: 2024
-  Status: Under Review
-  - Developing a medical image dataset, including different types of medical images in different types of breast cancers. Focusing on rare cases, our dataset tends to provide a competative dataset and benchmarks for future downstream tasts.
+  Status: Accepted by **Scienitific Data**
+  - Developing a ultrasound breast cancer image dataset, including different types of breast cancers. Focusing on rare cases, our dataset tends to provide a competative dataset and benchmarks for future downstream tasks.
   - Using CoT technique as a tool enhancing the explanibility and trustworthy of AI diagnose also reaching the SOTA performance.
     
 **Other works**
