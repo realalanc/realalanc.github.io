@@ -15,7 +15,7 @@ title: Cao, Zhenxiao
 ## Education
 **PhD in Computer Science and Engineering**  
 The Hong Kong University of Science and Technology, expected to graduate in 2029 (*I HOPE SO*)  
-Under the guidance of Bonnie Danqing Zhu and Hao Chen
+Under the guidance of Nevin Lianwen Zhang
 
 **Bachelor of Science in Computer Science and Technology**  
 Xi’an Jiaotong University, 2025  
